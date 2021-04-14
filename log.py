@@ -5,4 +5,3 @@ print("Suma:",a+b)
 print("Resta:",a-b)
 print("Division:",a/b)
 print("Multiplicacion:",a*b
-print ("Hola Mundo/ROEML")
